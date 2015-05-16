@@ -1,7 +1,7 @@
 [Salesforce® Federated Single Sign-on solution(s) with IBM WebSphere® DataPower®][9]
 ----------------------------------------
 
-> ***[Dipak K. Pal][14]***
+> [![image alt][15] ***Dipak K. Pal][14]***
 
 
 ----------
@@ -81,3 +81,4 @@ http://www.ibm.com/developerworks/websphere/library/techarticles/1505_pal4/image
   [12]: http://www.ibm.com/developerworks/websphere/library/techarticles/1505_pal3/1505_pal3.html
   [13]: http://www.ibm.com/developerworks/websphere/library/techarticles/1505_pal4/1505_pal4.html
   [14]: https://www.linkedin.com/in/dipakpal/
+  [15]: http://www.ibm.com/developerworks/i/p-dpal60.jpg
