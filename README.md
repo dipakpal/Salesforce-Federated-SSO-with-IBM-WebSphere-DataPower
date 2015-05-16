@@ -1,7 +1,7 @@
 [Salesforce® Federated Single Sign-on solution(s) with IBM WebSphere® DataPower®][9]
 ----------------------------------------
 
-> [![image alt][15] ***Dipak K. Pal][14]***
+> ***[![image alt][15] Dipak K. Pal][14]***
 
 
 ----------
